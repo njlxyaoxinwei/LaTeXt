@@ -24,5 +24,18 @@ The main features of LaTeXt are:
 - History view of all messages received (using Microsoft Azure Mobile Service)
 
 The iOS app code is at DJBen's repository [here](https://github.com/DJBen/YHack2014Fall)
+
 The Azure backend code is at [this repository](https://github.com/njlxyaoxinwei/YHack2014Azure2)
+
+Some screenshots:
+
+- Icon:
+![Icon](https://raw.githubusercontent.com/njlxyaoxinwei/YHack2014Azure/master/icon.png)
+
+- Share to iMessage:
+![iMessage](https://raw.githubusercontent.com/njlxyaoxinwei/YHack2014Azure/master/iMessage.png)
+
+- Preview Compilation in Custom Keyboard:
+
+![Preview](https://github.com/njlxyaoxinwei/YHack2014Azure/blob/master/preview.png)
 
